@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c2c2f8c74e0e5e00",
+        "id": "c4284c9f6321607b",
         "type": "tabs",
         "children": [
           {
-            "id": "fa6c99e8138f8db3",
+            "id": "f18943fe8d8f5983",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6d58fd587be4491f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "电子书下载.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "1ae8658fde413049",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "卡片盒笔记法.md",
+                "file": "电子书下载.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "卡片盒笔记法.md",
+                "file": "电子书下载.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "卡片盒笔记法.md"
+                "file": "电子书下载.md"
               }
             }
           }
@@ -147,10 +160,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fa6c99e8138f8db3",
+  "active": "6d58fd587be4491f",
   "lastOpenFiles": [
-    "第二篇发发发.md",
     "卡片盒笔记法.md",
+    "top10 obsidian plugins.md",
+    "Mike Bostock.md",
+    "Rich Harris.md",
+    "Why isn't Flow Based Programming More Popular?.md",
+    "第二篇发发发.md",
     "Untitled.canvas"
   ]
 }
