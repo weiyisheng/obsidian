@@ -4,35 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "c4284c9f6321607b",
+        "id": "50dad39ba2d99ca1",
         "type": "tabs",
         "children": [
           {
-            "id": "f18943fe8d8f5983",
+            "id": "492d4b2029cdc678",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "卡片盒笔记法.md",
+                "file": "快速阅读术.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6d58fd587be4491f",
+            "id": "cf8f70a795f124c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "电子书下载.md",
+                "file": "组件可视化.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "c47db919b71e84f0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "电子书下载.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "电子书下载.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "电子书下载.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -160,14 +164,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d58fd587be4491f",
+  "active": "c47db919b71e84f0",
   "lastOpenFiles": [
+    "tailwindcss.md",
+    "组件可视化.md",
+    "电子书下载.md",
+    "快速阅读术.md",
     "卡片盒笔记法.md",
+    "2023-01-28.md",
+    "Why isn't Flow Based Programming More Popular?.md",
     "top10 obsidian plugins.md",
     "Mike Bostock.md",
-    "Rich Harris.md",
-    "Why isn't Flow Based Programming More Popular?.md",
-    "第二篇发发发.md",
-    "Untitled.canvas"
+    "Rich Harris.md"
   ]
 }
