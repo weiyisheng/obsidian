@@ -13,62 +13,46 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "快速阅读术.md",
+                "file": "tailwindcss.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cf8f70a795f124c0",
+            "id": "5af422268d6a4a8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "组件可视化.md",
+                "file": "tailwindcss.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c47db919b71e84f0",
+            "id": "7bb219506b408767",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "组件可视化.md",
+                "file": "jxnblk.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1887e27012380aa9",
+            "id": "7c7e28a33d060c9a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "华仔机场.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "74d1e8dd6d8050c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "一键搭建机场.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -97,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#人物",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "一键搭建机场.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "一键搭建机场.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,9 +155,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "一键搭建机场.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -196,17 +176,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "74d1e8dd6d8050c8",
+  "active": "589e51e9d6cb749c",
   "lastOpenFiles": [
+    "max stoiber.md",
+    "tailwindcss.md",
+    "jxnblk.md",
+    "院子.md",
+    "Rich Harris.md",
+    "Mike Bostock.md",
+    "快速阅读术.md",
     "华仔机场.md",
     "组件可视化.md",
-    "tailwindcss.md",
-    "Rich Harris.md",
-    "快速阅读术.md",
-    "电子书下载.md",
-    "卡片盒笔记法.md",
-    "Mike Bostock.md",
-    "2023-01-28.md",
-    "Why isn't Flow Based Programming More Popular?.md"
+    "电子书下载.md"
   ]
 }
