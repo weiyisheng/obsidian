@@ -4,55 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "50dad39ba2d99ca1",
+        "id": "afcc7aecf34b7e4b",
         "type": "tabs",
         "children": [
           {
-            "id": "492d4b2029cdc678",
+            "id": "566336fce12e540c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tailwindcss.md",
+                "file": "组件可视化.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "5af422268d6a4a8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tailwindcss.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7bb219506b408767",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "jxnblk.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c7e28a33d060c9a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -81,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#人物",
+                "query": "tag:#兴趣项目",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -118,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "组件可视化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "组件可视化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "组件可视化.md"
+              }
             }
           }
         ],
@@ -176,7 +148,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "589e51e9d6cb749c",
+  "active": "cd97bec9a2618c36",
   "lastOpenFiles": [
     "max stoiber.md",
     "tailwindcss.md",
